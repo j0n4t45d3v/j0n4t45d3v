@@ -1,4 +1,3 @@
-# Hello! Eu sou Jonatas de Lima
 
 <div align="center">
   <a href="https://github.com/j0n4t45d3v">
