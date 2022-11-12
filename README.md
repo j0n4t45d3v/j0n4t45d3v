@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://github.com/j0n4t45d3v">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=j0n4t45d3v&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -12,7 +11,8 @@
   <img align="center" alt="JonatasJS" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="JonatasJV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Jonatas-MySQL"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Jonatas-MySQL" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Jonatas-MySQL"  width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+
   
 </div>
   
