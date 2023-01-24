@@ -16,12 +16,8 @@
 
   </div>
   
-  
   ##
-  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=j0n4t45d3v&theme=gotham&hide_border=true&area=true_color=&title_color=07EE46&bg_color=000000&color=07EE46) 
-  
- ##
+
   
 <div> 
    <a href = "mailto:delimajonatas875@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
