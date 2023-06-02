@@ -16,7 +16,7 @@
     </a>
     <h1>Study skills:</h1>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,django" />
+        <img src="https://skillicons.dev/icons?i=python,django,ruby,sinatra" />
       </a>          
   </div>
   
