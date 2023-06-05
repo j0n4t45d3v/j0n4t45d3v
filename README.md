@@ -12,8 +12,8 @@
     </a>
     <h1>Skills:</h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,java,spring,mysql,html,css,js,ts,nodejs,react,mongodb" />
-    </a>
+      <img src="https://skillicons.dev/icons?i=git,docker,java,spring,mysql,html,css,js,ts,nodejs,react,mongodb&perline=6" />
+    </a>    
     <h1>Study skills:</h1>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,django,ruby,sinatra" />
