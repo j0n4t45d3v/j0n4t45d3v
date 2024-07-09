@@ -5,14 +5,24 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=docker,java,spring,mysql" />
     </a>
-    <h1>Skills:</h1>
+    <h1>Languages: </h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,java,spring,mysql,html,css,js,ts,nodejs,react,mongodb,php,postgres,bash&perline=6" />
+      <img src="https://skillicons.dev/icons?i=java,html,css,nodejs,ts,php,bash,python,ruby&perline=4" />
     </a>    
-    <h1>Study skills:</h1>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,django,ruby,sinatra" />
-      </a>          
+    </a>
+    <h1>Frameworks and Libraries: </h1>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=spring,react,django,express,sinatra&perline=4" />
+    </a>    
+    <h1>Databases: </h1>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=4" />
+    </a>    
+    </a>    
+    <h1>Other Tools: </h1>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,docker,rabbitmq,idea,vscode,linux,postman,eclipse&perline=4" />
+    </a>    
   </div>
   
   ##
