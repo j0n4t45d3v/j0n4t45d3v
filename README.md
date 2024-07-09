@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07EE46&height=120&section=header"/>
    
   <div style="display: inline_block" align="center"><br>  
-     <h1>desenvolvedor Backend</h1>
+     <h1>Desenvolvedor Backend</h1>
     <h1>Main skills:</h1>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=docker,java,spring,mysql" />
