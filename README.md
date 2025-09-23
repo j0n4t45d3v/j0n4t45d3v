@@ -8,7 +8,7 @@
     </a>
     <h1>Languages: </h1>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,html,css,nodejs,ts,php,bash,python,golang,c,cpp,batch&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,html,css,nodejs,ts,php,ruby,bash,python,golang,c,cpp,batch&perline=4" />
     </a>    
     </a>
     <h1>Frameworks and Libraries: </h1>
